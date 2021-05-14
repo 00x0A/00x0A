@@ -2,7 +2,7 @@
 ### I'm the [one that codes](http://linkedin.com/in/ajaykrishnaanandhan) here. 
 
   - 🎀 Passionate about __Artificial Intelligence__ and __Information Security__ .
-  - 🌱 I’m currently learning __Deep Science__ .
+  - 🌱 I’m currently learning about __Neaural Networks__ .
 
 **Languages and tools**  
 
