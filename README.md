@@ -1,8 +1,8 @@
 ## Hello, World ... 
 ### I'm the [one that codes](http://linkedin.com/in/ajaykrishnaanandhan) here. 
 
-  - 🎀 Passionate about __Artificial Intelligence__ and __Information Security__ .
-  - 🌱 I’m currently learning about __Neural Networks__ .
+  - 🎀 Passionate about __Artificial Intelligence__  .
+  - 🌱 I’m currently learning about __Natural Language Processing__ .
 
 **Languages and tools**  
 
