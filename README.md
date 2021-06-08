@@ -6,6 +6,6 @@
 
 **Languages and tools**  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thatcodes&layout=compact&theme=material-palenight&hide=jupyter%20notebook" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodosuke&layout=compact&theme=material-palenight&hide=jupyter%20notebook" />
 
 💬 Ask me about anything [here](https://github.com/kodosuke/kodosuke/issues)
