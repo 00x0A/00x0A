@@ -9,3 +9,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodosuke&layout=compact&theme=material-palenight&hide=jupyter%20notebook" />
 
 💬 Ask me about anything [here](https://github.com/kodosuke/kodosuke/issues)
+
+ 💡 To download my resume, [click here](https://github.com/kodosuke/kodosuke/files/6901583/Ajay.Krishna.A.pdf).
